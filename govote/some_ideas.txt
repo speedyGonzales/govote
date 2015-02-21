@@ -1,0 +1,5 @@
+type MyType
+
+func CastVotePlurarityVote(m *MyType) ([]string, []int, error) {
+
+}
