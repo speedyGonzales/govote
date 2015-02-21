@@ -1,7 +1,7 @@
-# gsvote:  Go(Golang) library for voting algorythms
+# govote:  Go (Golang) library for voting algorythms
 
 <p align="center">
-  <img src="https://raw.github.com/speedyGonzales/govote/master/govote.png" alt="GoVote Logo"/>
+  <img src="https://github.com/speedyGonzales/govote/blob/master/govote/govote.png" />
 </p>
 
 ## Description
